@@ -1,4 +1,5 @@
 Ejemplo de archivo de texto
 
+Tengo 31 años, naci el 15 de Marzo de 1989
 
 Este es un ejemplo de archivo para el curso de GIT
