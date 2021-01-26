@@ -1,0 +1,4 @@
+Ejemplo de archivo de texto
+
+
+Este es un ejemplo de archivo para el curso de GIT
